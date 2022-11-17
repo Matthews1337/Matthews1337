@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Matthews1337
-- 👀 I’m interested in Learning more about developing 
+- Hey!👋 Nice to meet you! My name is Matheus Fonseca, an analysis and development of system's student living in Brazil. Nowadays, i focus my time on learning more each day about backend developing. Feel free to find me on my Linkedin.
+
+ABOUT ME 
+- 👀 I’m interested in Learning more about development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-fonseca-20270823a/
 
