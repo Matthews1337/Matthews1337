@@ -3,7 +3,6 @@
 ABOUT ME 
 - 👀 I’m interested in Learning more about development
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: https://www.linkedin.com/in/matheus-fonseca-20270823a/
 
 ![Matthew1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthews1337&show_icons=true&theme=transparent)
 
