@@ -8,7 +8,7 @@ ABOUT ME
 
 <div> 
   <a href="https://www.instagram.com/matheussf_97/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.dio.me/users/Matheusfonseca1997" target="_blank"><img src="" target="_blank"></a>
+ 	<a href="https://www.dio.me/users/Matheusfonseca1997" target="_blank"><img src="https://img.shields.io/badge/Digital%20Innovation%20One-8A2BE2" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-fonseca-20270823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
