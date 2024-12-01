@@ -1,8 +1,8 @@
-- Hey!👋 Nice to meet you! My name is Matheus Fonseca, an analysis and development of system's student living in Brazil. Nowadays, i focus my time on learning more each day about backend developing. Feel free to find me on my social medias.
+- Hey!👋 Nice to meet you! My name is Matheus Fonseca, a Software Engineering student living in Brazil. Nowadays, i focus my time on learning more each day about backend developing and data science. Feel free to find me on my social medias.
 
 ABOUT ME 
 - 👀 I’m interested in Learning more about development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning machine learning
 
 
 <div align="left">
