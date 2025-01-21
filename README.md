@@ -1,8 +1,8 @@
-- Hey!👋 Nice to meet you! My name is Matheus Fonseca, a Software Engineering student living in Brazil. Nowadays, i focus my time on learning more each day about backend developing and data science. Feel free to find me on my social medias.
+<h1>Hi There, Im Matthew!</h1>
 
 ABOUT ME 
-- 👀 I’m interested in Learning more about development
-- 🌱 I’m currently learning machine learning
+- Software Engineer student
+- Passionate about programming, machine learning and data science
 
 
 <div align="left">
